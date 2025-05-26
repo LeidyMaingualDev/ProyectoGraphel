@@ -62,7 +62,7 @@ nav a.active {
     height: 340px;
     text-align: center;
     padding: 70px;
-    background-image: url('images/images/cabecera.jpg');
+    background-image: url(../images/images/cabecera.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -213,7 +213,7 @@ footer {
 }
 
 .imagen2 {
-    background-image: url('images/images/891.jpg');
+    background-image: url('../images/images/891.jpg');
     background-size: cover;
     background-position: center;
     max-width: 750px;

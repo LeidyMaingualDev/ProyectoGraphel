@@ -4,7 +4,9 @@
     box-sizing: border-box;
     font-family: Arial, sans-serif;
 }
-
+body{
+    position: relative;
+}
 /*Estilos del header*/
 header {
     background-color: rgb(36, 40, 43);
@@ -277,9 +279,8 @@ footer {
 
 
 .formulario {
-    margin-top: 10px;
     margin: 10px;
-    padding: 20px;
+    padding: 5px;
 }
 
 
@@ -341,3 +342,20 @@ footer {
 .texto8 p {
     color: white;
 }
+.imagen3 {
+    position: absolute;
+    top: 420px;
+    right: 115px;
+    width: 25%;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.imagen3 img {
+    display: block;
+    max-width: 100%;
+    margin: 0 auto;
+    height: auto;
+}
+
+
